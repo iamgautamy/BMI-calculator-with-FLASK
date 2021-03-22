@@ -1,0 +1,13 @@
+.mainheadd{
+    text-align: center;
+    border-style: outset;
+    border-color: red;
+    font-family: "Sofia", sans-serif;
+}
+
+
+#titlee p {
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    font-size: 129;
+}
